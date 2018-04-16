@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
+@import url('https://fonts.googleapis.com/css?family=Neucha');
+
+div{
+    outline: px solid lime;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+.Header{
+    max-width: 920px;
+    max-height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Him{
+    max-width: 230px;
+    height: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 5.5rem;
+    padding-bottom: 15px;
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+}
+
+.theartist{
+    max-width: 135px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2.4rem;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.links{
+    max-width: 920px;
+    height: 20px;
+    margin-left: 195px;
+    position: fixed;
+    top: 0;
+    background-colo: white;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 1.5rem
+}
+
+.links a{
+    padding-left: 50px;
+    padding-right: 57px;
+    color: black;
+    text-decoration: none;
+    align-content: center;
+}
+
+.links a:hover{
+    color: brown;
+}
+
+.homeimage{
+    max-width: 920px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    outline-width: 5px;
+    outline-color: black;
+    outline-style: inset
+}
+
+.about{
+    width: 920px;
+    height: 300px;
+    outline: px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    outline: 5px solid black;
+}
+
+.sideimage1{
+    width: 200px;
+    height: 185px;
+    float: left;
+    margin-top: 100px;
+    padding-top: 15px
+}
+
+.about_content_box{
+    width: 520px;
+    height: 300px;
+    float: left;
+}
+
+.abouttitle{
+    width: 150px;
+    height: 60px;
+    float: left;
+    font-size: 5rem;
+    margin-left: 186px;
+    margin-top: 10px;
+    float: left;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.aboutcontent{
+    width: 520px;
+    height: 240px;
+    float: left;
+    font-size: 1.374rem;
+    font-family: 'Neucha', cursive;
+}
+
+.sideimage2{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+
+
+
+
